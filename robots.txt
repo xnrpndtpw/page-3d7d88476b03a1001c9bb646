@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.sakongr.cn/sitemap.xml
